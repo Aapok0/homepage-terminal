@@ -1,0 +1,14 @@
+/* Main terminal container */
+.terminal-container {
+  /* TODO: set dimensions, padding, borders */
+}
+
+/* Terminal output area for displaying commands and results */
+.terminal-output {
+  /* TODO: set height, overflow behavior, font styling */
+}
+
+/* Terminal input field */
+.terminal-input {
+  /* TODO: set width, font, styling to match terminal aesthetic */
+}

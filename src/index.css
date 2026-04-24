@@ -1,0 +1,19 @@
+/* Global styles for terminal interface */
+/* TODO: set base font, colors, dark theme styling */
+/* TODO: define monospace font for terminal-like appearance */
+/* TODO: set up color scheme for terminal output, input, and errors */
+
+:root {
+  /* TODO: define CSS variables for terminal colors */
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+}
